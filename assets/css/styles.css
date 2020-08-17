@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #55595c;
+  text-align: left;
+  background-color: #fff;
+  text-decoration-color: #000000;
+}
+
+#about {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/tools.jpg) no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#about .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.95);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  #auto .jumbotron {
+    padding: 20px;
+  }
+}
+
+.container.site-section {
+  text-align: center;
+  padding: 50px 0 60px;
+}
+
+#info p {
+  max-width: 800px;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.site-section h1 {
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+#navcol-1 {
+  /*margin: 0 auto;*/
+  /*position: relative;*/
+}
+
