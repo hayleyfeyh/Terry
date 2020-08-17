@@ -274,3 +274,139 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 
 
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/css/bootstrap.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/bootstrap/js/bootstrap.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/css/Contact-Form-Clean.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/css/Pretty-Footer.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/css/dh-row-text-image-right-responsive.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/css/styles.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/css/untitled.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/fonts/font-awesome.min.css.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/fonts/fontawesome-webfont.svg.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/js/datepicker.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/js/jquery.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in assets/js/smart-forms.min.js.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in awards.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in booking.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in error.log.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:49:51 GMT-0400 (Eastern Daylight Time)
+
+warning: LF will be replaced by CRLF in index.html.
+The file will have its original line endings in your working directory
+
+
+----------
+
+Mon Aug 17 2020 15:50:01 GMT-0400 (Eastern Daylight Time)
+
+To https://github.com/hayleyfeyh/Terry.git
+   5267288..a04435b  master -> master
+
+
